@@ -11,7 +11,7 @@
 #
 
 require 'rubygems'
-require 'bundler/psyched_yaml'
+#require 'bundler/psyched_yaml'
 
 module YAML
   # In newer 1.9.2, there is a Syck toplevel constant instead of it
